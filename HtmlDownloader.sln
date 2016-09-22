@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlDownloader", "HtmlDownloader\HtmlDownloader.csproj", "{CFD609BE-8ECA-4812-B532-9DB3C697A4A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlDownloader", "HtmlDownloader\HtmlDownloader.csproj", "{7137F080-EB42-4F7A-9CA6-858CB33D61A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFD609BE-8ECA-4812-B532-9DB3C697A4A1}.Debug|x86.ActiveCfg = Debug|x86
+		{CFD609BE-8ECA-4812-B532-9DB3C697A4A1}.Debug|x86.Build.0 = Debug|x86
+		{CFD609BE-8ECA-4812-B532-9DB3C697A4A1}.Release|x86.ActiveCfg = Release|x86
+		{CFD609BE-8ECA-4812-B532-9DB3C697A4A1}.Release|x86.Build.0 = Release|x86
+		{7137F080-EB42-4F7A-9CA6-858CB33D61A5}.Debug|x86.ActiveCfg = Debug|x86
+		{7137F080-EB42-4F7A-9CA6-858CB33D61A5}.Debug|x86.Build.0 = Debug|x86
+		{7137F080-EB42-4F7A-9CA6-858CB33D61A5}.Release|x86.ActiveCfg = Release|x86
+		{7137F080-EB42-4F7A-9CA6-858CB33D61A5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
