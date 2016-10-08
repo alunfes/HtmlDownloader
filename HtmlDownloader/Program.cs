@@ -14,6 +14,7 @@ namespace HtmlDownloader
 			{
 				using (WebClient wc = new WebClient())
 				{
+					wc.Encoding = Encoding.UTF8;
 					string html = wc.DownloadString(url);
 					Console.WriteLine(html);
 				}
